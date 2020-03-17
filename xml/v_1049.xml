@@ -1,0 +1,26 @@
+<annotation>
+	<folder>v</folder>
+	<filename>v_1049.jpg</filename>
+	<path>C:\Users\hyunj\dataset\data_1\data_1\v\v_1049.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>75</width>
+		<height>100</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>2</ymin>
+			<xmax>66</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

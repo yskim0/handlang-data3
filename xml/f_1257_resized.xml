@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>a-i labeling</folder>
+	<filename>f_1257_resized.jpg</filename>
+	<path>/Users/yeonsookim/Desktop/code/a-i labeling/f_1257_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>1</ymin>
+			<xmax>340</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>l</folder>
+	<filename>l_1321.jpg</filename>
+	<path>C:\Users\user\Desktop\handlang_data\data_1\l\l_1321.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>59</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>l</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>5</ymin>
+			<xmax>79</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>

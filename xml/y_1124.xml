@@ -1,0 +1,26 @@
+<annotation>
+	<folder>y</folder>
+	<filename>y_1124.jpg</filename>
+	<path>C:\Users\hyunj\dataset\data_1\data_1\y\y_1124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>59</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>8</ymin>
+			<xmax>84</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>a-i labeling</folder>
+	<filename>c_1291_resized.jpg</filename>
+	<path>/Users/yeonsookim/Desktop/code/a-i labeling/c_1291_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>c</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>137</ymin>
+			<xmax>358</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

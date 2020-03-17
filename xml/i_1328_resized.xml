@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>a-i labeling</folder>
+	<filename>i_1328_resized.jpg</filename>
+	<path>/Users/yeonsookim/Desktop/code/a-i labeling/i_1328_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>55</ymin>
+			<xmax>322</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

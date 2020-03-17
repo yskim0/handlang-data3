@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>o</folder>
+	<filename>o_121.jpg</filename>
+	<path>C:\Users\user\Desktop\handlang_data\data_1\o\o_121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>56</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>o</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>3</ymin>
+			<xmax>83</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+</annotation>

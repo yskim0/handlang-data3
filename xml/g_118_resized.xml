@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>a-i labeling</folder>
+	<filename>g_118_resized.jpg</filename>
+	<path>/Users/yeonsookim/Desktop/code/a-i labeling/g_118_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>207</ymin>
+			<xmax>239</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
